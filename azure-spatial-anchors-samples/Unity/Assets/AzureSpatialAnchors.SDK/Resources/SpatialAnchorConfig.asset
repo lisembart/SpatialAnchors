@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: SpatialAnchorConfig
   m_EditorClassIdentifier: 
   authenticationMode: 0
-  spatialAnchorsAccountId: 
-  spatialAnchorsAccountKey: 
+  spatialAnchorsAccountId: e1bf1f19-5962-4f2c-b7b2-aea9d9dbc345
+  spatialAnchorsAccountKey: VMM4fcUNsL/8OT525g9YDWJM1fzaio/A2ygVb/9jETc=
   clientId: 
   tenantId: 

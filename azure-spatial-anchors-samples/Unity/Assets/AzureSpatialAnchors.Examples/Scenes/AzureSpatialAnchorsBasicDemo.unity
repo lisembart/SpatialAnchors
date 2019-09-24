@@ -467,7 +467,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f15239dede7d744be98ccf6669d3b941, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  anchoredObjectPrefab: {fileID: 1147623660883556, guid: e593bfccf03b6444da88c7591f906ba8,
+  anchoredObjectPrefab: {fileID: 2858651425295371927, guid: 6fcc7b3840b61444993989f00f42af3c,
     type: 3}
   cloudManager: {fileID: 294771744}
 --- !u!4 &294771743

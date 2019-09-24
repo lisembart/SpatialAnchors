@@ -38,6 +38,7 @@ ScriptsOnlyBuild:
     - UnityEngine.XR.WSA.SpatialMappingCollider
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
     UnityEngine.SpatialTracking.dll:
     - UnityEngine.SpatialTracking.TrackedPoseDriver
     UnityEngine.UI.dll:
@@ -195,7 +196,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12252}
     - Class: 114
-      Script: {instanceID: 14566}
+      Script: {instanceID: 15178}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -1169,4 +1170,4 @@ ScriptsOnlyBuild:
   - Assets/AzureSpatialAnchors.Examples/Scenes/AzureSpatialAnchorsBasicDemo.unity
   - Assets/AzureSpatialAnchors.Examples/Scenes/AzureSpatialAnchorsNearbyDemo.unity
   - Assets/AzureSpatialAnchors.Examples/Scenes/AzureSpatialAnchorsLocalSharedDemo.unity
-  playerPath: D:/SpatialAnchorsDemo
+  playerPath: D:/SpatialAnchorsDemo/XcodeProject
